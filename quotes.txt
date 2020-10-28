@@ -1,2 +1,4 @@
 "Trying to be patient when time is speeding up can slow you down"
 i
+"hello hello"
+"I am a quote"
